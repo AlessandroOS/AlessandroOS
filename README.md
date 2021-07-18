@@ -8,7 +8,7 @@
 - Brazilian  
 - 28 Years old Developer;  
 - Studying systems development
-- **Learning :** Java, C#, SQL, JS
+- **Learning :** Java, SQL, JS
 
 <h2><b>Github Stats</b></h2>
 <p align="left">
