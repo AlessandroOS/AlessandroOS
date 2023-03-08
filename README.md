@@ -6,7 +6,7 @@
 
 ### About
 - Brazilian  
-- 28 Years old Developer;  
+- 30 Years old Developer;  
 - Studying systems development
 - **Learning :** Java, Spring, Docker, SQL, JS
 
