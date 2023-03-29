@@ -1,7 +1,9 @@
 ## Hi there, I'm Alessandro de Oliveira
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alessandro_de_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandroos//)](https://www.linkedin.com/in/alessandroos/) [![Gmail Badge](https://img.shields.io/badge/-alessandro12293@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alessandro12293@gmail.com)](mailto:alessandro12293@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-Alessandro_de_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandroos//)](https://www.linkedin.com/in/alessandroos/)
+
+<!-- [![Gmail Badge](https://img.shields.io/badge/-alessandro12293@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alessandro12293@gmail.com)](mailto:alessandro12293@gmail.com)   -->
 
 
 ### About
